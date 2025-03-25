@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">👋 Merhaba, ben Çağın!</h1>
+<h3 align="center">Web Geliştirici | Frontend & Backend | UI/UX</h3>
 
-<!--
-**caginsezer/caginsezer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Frontend+Enthusiast;UI/UX+Lover!&color=blue&size=20" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Hakkımda
+- 🌍 Web geliştirme ile ilgileniyorum ve **Frontend & Backend** alanında çalışıyorum.  
+- 🖥️ **React, Next.js, JavaScript, CSS, Tailwind** gibi modern teknolojilere odaklanıyorum.  
+- 📌 **Hedefim:** Kullanıcı dostu, performanslı ve ölçeklenebilir web projeleri geliştirmek!  
+
+---
+
+## 🛠️ Yetkinlikler
+- 💻 **HTML**  
+- 🛠️ **Git** (Versiyon Kontrolü)
+
+---
+
+## 📊 GitHub İstatistikleri
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=caginsezer&show_icons=true&theme=dark" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caginsezer&theme=dark" width="48%" />
+</p>
+
+---
+
+## 📫 Bana Ulaşın!
+<p align="center">
+  <a href="https://www.linkedin.com/in/caginsezer/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue" />
+  </a>
+</p>
+
+---
+
+ **Burayı beğendiysen, lütfen ⭐ ver ve takip et!** 🚀
