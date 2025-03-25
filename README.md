@@ -17,7 +17,7 @@
 ## 🛠️ Yetkinlikler
 - 💻 **HTML**  
 - 🛠️ **Git** (Versiyon Kontrolü)
-
+- 🔵 **C** (Programlama Dili)
 ---
 
 ## 📊 GitHub İstatistikleri
