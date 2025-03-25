@@ -22,7 +22,6 @@
 
 ## 📊 GitHub İstatistikleri
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=caginsezer&show_icons=true&theme=dark" width="48%" />
 <img src="https://github-readme-stats-kappa.vercel.app/api?username=caginsezer&show_icons=true&theme=dark" width="48%" />
 
 </p>
